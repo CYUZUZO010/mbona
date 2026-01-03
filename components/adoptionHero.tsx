@@ -12,15 +12,13 @@ export default function AdoptionHero() {
         {/* Top green strip */}
        
 
-        {/* Background image */}
-        {/* <div className="absolute inset-0 bg-linear-to-r from-black/60 via-black/40 to-transparent" /> */}
 
         {/* Navbar over hero */}
         <div className="relative z-20">
           <SiteHeader variant="overlay" />
         </div>
 
-        {/* Content with image */}
+        {/* Content */}
         <div className="relative z-10 mx-auto max-w-6xl px-6 pb-16 pt-12 sm:px-10 sm:pt-16 flex items-center justify-between">
           <div className="max-w-2xl mt-15">
 
