@@ -33,7 +33,7 @@ export default function HomeHero() {
       {/* HERO CONTENT */}
       <div className="relative z-10 mx-auto max-w-6xl px-6 pb-24 pt-10 sm:px-10 sm:pt-16">
         <div className="grid items-start gap-8 md:grid-cols-2">
-          {/* Text */}
+   
           <div className="max-w-2xl">
             <p className="text-emerald-200/80 text-sm font-medium">
               A survivor finds a sibling
@@ -109,7 +109,6 @@ export default function HomeHero() {
         </div>
       </div>
 
-      {/* Overlay Stats Section — hidden on very small windows */}
       <div className="hidden sm:block absolute inset-x-0 -bottom-20  z-30">
         <div className="mx-auto max-w-6xl px-0">
           <div className="grid grid-cols-5 h-[170px]">
