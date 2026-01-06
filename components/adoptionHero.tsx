@@ -15,7 +15,7 @@ export default function AdoptionHero() {
           <SiteHeader variant="overlay" />
         </div>
 
-        {/* Content */}
+      
         <div className="relative z-10 mx-auto max-w-6xl px-6 pb-16 pt-12 sm:px-10 sm:pt-16 flex items-center justify-between">
           <div className="max-w-2xl mt-15">
 
