@@ -12,7 +12,7 @@ export default function AboutPage() {
       <main className="flex-grow space-y-14">
         <AboutHero />
 
-        {/* Our Character Section */}
+        
         <div className="mt-10 grid gap-6 sm:gap-8 md:gap-10 sm:grid-cols-2 mx-auto max-w-7xl px-4 sm:px-6">
           {cards.map((c) => (
             <Card key={c.title} className="shadow-xl rounded-sm ">
