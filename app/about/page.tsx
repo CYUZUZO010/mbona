@@ -53,8 +53,6 @@ export default function AboutPage() {
             <p className="mt-2 sm:mt-3 text-sm sm:text-base text-zinc-600 max-w-2xl mx-auto">
               Since our launch, we have been dedicated to creating meaningful connections and supporting families on their healing journey.
             </p>
-
-            {/* Impact Circles with Animation */}
             <div className="mt-8 sm:mt-12 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-4">
               {impactItems.map((item) => (
                 <div key={item.title} className="text-center">
