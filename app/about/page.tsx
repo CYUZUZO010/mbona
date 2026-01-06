@@ -44,7 +44,7 @@ export default function AboutPage() {
           ))}
         </div>
 
-        {/* Our Impact Section */}
+       
         <section className="py-12 sm:py-20 bg-[#E4F3EF4D] mt-12 sm:mt-16">
           <div className="mx-auto max-w-6xl px-4 sm:px-6 text-center">
             <h2 className="text-2xl sm:text-3xl font-bold text-zinc-900">
