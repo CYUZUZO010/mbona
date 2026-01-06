@@ -80,7 +80,7 @@ export default function AboutPage() {
           </div>
         </section>
 
-        {/* Our Values Section */}
+        
         <section className="py-12 sm:pt-9 sm:pb-14 mt-0 bg-white">
           <div className="mx-auto max-w-6xl px-4 sm:px-6 text-center">
             <h2 className="text-2xl sm:text-3xl font-bold text-zinc-900">
