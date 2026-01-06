@@ -11,9 +11,6 @@ export default function AdoptionHero() {
       <section className="relative isolate  bg-black text-white w-full min-h-[420px] sm:min-h-[616px] overflow-hidden ">
         {/* Top green strip */}
        
-
-
-        {/* Navbar over hero */}
         <div className="relative z-20">
           <SiteHeader variant="overlay" />
         </div>
