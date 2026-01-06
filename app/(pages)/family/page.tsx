@@ -123,7 +123,7 @@ const family = () => {
             <SurvivorCard />
             <SurvivorCard />
             <SurvivorCard />
-            {/* <SurvivorCard /> */}
+            
           </div>
         </div>
       </main>
