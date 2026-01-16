@@ -15,8 +15,6 @@ export default function HomeDesigned() {
           </p>
         </div>
 
-        {/**Circles */}
-
         <div className="mt-12 grid grid-cols-1 gap-10 sm:grid-cols-2 lg:grid-cols-4">
           {items.map((item) => (
             <div key={item.title} className="text-center">
