@@ -9,7 +9,7 @@ export default function AdoptionHero() {
       <div className="h-7 rounded-t-full bg-emerald-600" />
     
       <section className="relative isolate  bg-black text-white w-full min-h-[420px] sm:min-h-[616px] overflow-hidden ">
-        {/* Top green strip */}
+      
        
         <div className="relative z-20">
           <SiteHeader variant="overlay" />
