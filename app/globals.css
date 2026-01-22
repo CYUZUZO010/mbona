@@ -10,6 +10,7 @@
 
 @theme inline {
   --default-font-family: var(--font-poppins);
+  
   --font-sans: var(--font-poppins);
   --font-mono: var(--font-geist-mono);
 
