@@ -36,6 +36,7 @@ export default function AboutPage() {
                     </li>
                   ))}
                 </ul>
+                
 
                 <Button className="mt-8 inline-block rounded-sm bg-emerald-600 px-6 py-2 text-xs sm:text-sm font-medium text-white hover:bg-emerald-700 transition-colors">
                   {c.cta}
