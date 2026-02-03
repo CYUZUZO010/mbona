@@ -13,6 +13,7 @@ import {
 import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
 
+
 export default function AdoptionPage() {
   return (
     <div className="space-y-0">
