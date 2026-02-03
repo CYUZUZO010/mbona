@@ -13,9 +13,7 @@ export default function HomePage() {
         </div>
 
         <HomeFeatures />
-
         <HomeDesigned />
-
         <HomeCta />
       </main>
 
