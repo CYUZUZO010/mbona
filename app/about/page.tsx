@@ -16,6 +16,7 @@ export default function AboutPage() {
         <div className="mt-10 grid gap-6 sm:gap-8 md:gap-10 sm:grid-cols-2 mx-auto max-w-7xl px-4 sm:px-6">
           {cards.map((c) => (
             <Card key={c.title} className="shadow-xl rounded-sm ">
+              
               <CardContent className="p-4 sm:p-6">
                 <div className="mb-4 flex items-center gap-4">
                   <div className="h-6 w-9 rounded-sm bg-emerald-50 flex-shrink-0" />
