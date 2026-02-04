@@ -25,8 +25,6 @@ export default function SiteHeader({ variant = "overlay" }: { variant?: "overlay
           >
             Mbona
           </div>
-
-          
           <nav
             className={`hidden items-center justify-center gap-8 text-md sm:flex font-bold  ${
               isOverlay ? "text-white/90" : "text-zinc-700"
