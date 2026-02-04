@@ -10,6 +10,7 @@ export default function HomeCta() {
           <div className="mt-8 flex flex-wrap justify-center gap-3">
             <Button asChild className="bg-white text-emerald-700 hover:bg-white/90 rounded mr-6">
               <a href="#start">Start adoption process</a>
+              
             </Button>
             <Button asChild variant="outline" className="border-white/70 text-white bg-white/10 rounded w-50">
               <a href="#guide">Find your lost family</a>
