@@ -10,7 +10,6 @@ export default function AboutHero() {
     <div className="h-7 rounded-t-full bg-emerald-600" />
     <section className="relative isolate bg-black text-white min-h-[420px] sm:min-h-[615px] overflow-hidden">
       
-
       <div className="relative z-20">
         <SiteHeader variant="overlay" />
       </div>
@@ -24,6 +23,7 @@ export default function AboutHero() {
           ABOUT <span className="text-emerald-600">MBONA</span>
         </h1>
       </div>
+      
     </section>
     </div>
   );
