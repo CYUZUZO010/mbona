@@ -7,6 +7,7 @@ export default function HomeFeatures() {
       <div className="text-center">
         <h2 className="text-2xl font-semibold text-emerald-800">Three Intertwined Missions</h2>
         <p className="mt-2 text-zinc-600">
+          
           Our platform serves family-based adoption, genocide survivor reconnections, and general missing relatives search, creating a comprehensive support system for healing and restoration.
         </p>
       </div>
