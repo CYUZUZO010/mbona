@@ -14,8 +14,6 @@ export default function SiteFooter() {
               <p className="text-xs text-zinc-600 mt-1">Get updates on platform features and support resources.</p>
             </div>
           </div>
-
-          
           <Column title="Quick Links" items={["Adopt or Foster", "Find Lost Family", "Support Resources", "About Us"]} />
           <Column title="Resources" items={["Legal Guidance", "Counseling Services", "Community Stories", "FAQ"]} />
           <Column title="Contact Us" items={["info@mbona.rw", "+250 788 123 456", "Kigali, Rwanda"]} />
